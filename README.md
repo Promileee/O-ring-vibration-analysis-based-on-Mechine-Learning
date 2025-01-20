@@ -1,0 +1,2 @@
+# O-ring-vibration-analysis-based-on-Mechine-Learning
+This repository is dedicated to the storage and management of resources pertaining to the vibration analysis of O-rings utilizing Machine Learning methodologies. It encompasses datasets, models, scripts, and documentation aimed at exploring and enhancing predictive maintenance strategies for O-ring integrity through advanced analytical techniques
