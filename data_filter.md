@@ -10,7 +10,7 @@ The Fast Fourier Transform (FFT) is an efficient algorithm for computing the Dis
 
 In the uploaded file `data_file.ipynb`, I selected a typical example from the **fourth parallel experiment**: the y-axis signal representing the mass response at a compression ratio of 15%, with a rotation speed of 20,000 RPM.
 
-I plotted the graph of this time-domain signal, which is the first graph in the `Data_filter.ipynb` file.
+I plotted the graph of this time-domain signal, which is the first graph in the `data_filter.ipynb` file.
 
 Next, I applied the FFT to convert the time-domain signal into a frequency-domain signal and then plotted it, as shown in the second graph within the file.
 
